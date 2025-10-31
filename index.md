@@ -163,15 +163,9 @@ title: Wenjun Hu - AI Research
     <h2>Education</h2>
     
     <div class="timeline-item">
-        <div class="timeline-date">May 2014</div>
-        <div class="timeline-title">Ph.D. & M.S. in Mechanical Engineering</div>
-        <div class="timeline-company">Georgia Institute of Technology | Atlanta, GA</div>
-    </div>
-    
-    <div class="timeline-item">
-        <div class="timeline-date">May 2005</div>
-        <div class="timeline-title">B.S. in Mechanical Engineering</div>
-        <div class="timeline-company">University of Tehran | Tehran, Iran</div>
+        <div class="timeline-date">September 2013</div>
+        <div class="timeline-title">Ph.D. in Theory and Simulation of Condensed Matter</div>
+        <div class="timeline-company">Scuola Internazionale Superiore di Studi Avanzati di Trieste | Trieste, Italy</div>
     </div>
 </div>
 
@@ -179,60 +173,61 @@ title: Wenjun Hu - AI Research
     <h2>Professional Background</h2>
     
     <div class="timeline-item">
-        <div class="timeline-date">Feb 2019 – Present</div>
-        <div class="timeline-title">Senior Staff AI Scientist</div>
+        <div class="timeline-date">Mar 2022 – Present</div>
+        <div class="timeline-title">AI Scientist</div>
         <div class="timeline-company">AI Science Lab, Samsung SDS | San Jose, CA</div>
-        <p><em>Promoted to Senior Staff AI Scientist in 2024</em></p>
         
         <h4>Key Responsibilities:</h4>
         <ul>
-            <li>Develop and deploy products, solutions, and service-differentiating technologies to secure Samsung's competitive advantages</li>
-            <li>Establish technical goals, lead task forces, and collaborate across Samsung and external entities for technology development and transfer</li>
+            <li>Develop and deploy products, solutions</li>
         </ul>
         
         <h4>Major Projects:</h4>
         <ul>
             <li><strong>Generative AI & Large Language Models:</strong> Developed Text-to-SQL models, data-efficient LLM alignment techniques, and tailored multimodal LLMs for text, image, and tabular data formats</li>
-            <li><strong>Data-Efficient Deep Learning:</strong> Created representation and unsupervised learning algorithms to reduce labeling requirements for deep learning models</li>
-            <li><strong>Computer Vision:</strong> Developed Active Learning and Unsupervised Accuracy Estimation frameworks for classification, object detection, and semantic segmentation; created probabilistic Multi-View 3D semantic segmentation Active Learning framework</li>
-            <li><strong>Predictive Analytics:</strong> Built sales forecasting models for Samsung business units and optimized marketing strategies for sales campaigns</li>
         </ul>
     </div>
     
     <div class="timeline-item">
-        <div class="timeline-date">Nov 2017 – Feb 2019</div>
-        <div class="timeline-title">Senior Data Scientist</div>
-        <div class="timeline-company">Data Science Group, Applied Materials | Santa Clara, CA</div>
+        <div class="timeline-date">Feb 2021 – Mar 2022</div>
+        <div class="timeline-title">Senior Data Science Engineer</div>
+        <div class="timeline-company">Nabors Industries | Houston, TX</div>
         <ul>
-            <li>Developed and deployed AI solutions to enhance engineering, services, and supply chain performance</li>
-            <li>Led AI application productization in collaboration with Software, UI, DevOps teams, and internal/external customers</li>
-            <li>Created end-of-life prediction Deep Learning and Machine Learning models for SmartFactory service solutions</li>
-            <li>Deployed real-time Deep Learning anomaly detection web application for semiconductor smart manufacturing platform</li>
-            <li>Developed Gaussian Process Machine Learning framework for modeling process and equipment parameter impacts on sputtering systems (collaboration with MIT)</li>
+            <li>Analyzing time series data and build RNN/LSTM/Transformer model for time series predictions.</li>
+            <li>Build MQTT publisher and subscriber for data communication.</li>
+            <li>Build postgresql database for storing time series data.</li>
+            <li>Build workflow with airflow for machine learning projects on Ubuntu server.</li>
+            <li>Applying ResNet/GoogleNet and LSTM for activity detection in videos.</li>
         </ul>
     </div>
     
     <div class="timeline-item">
-        <div class="timeline-date">Aug 2014 – Nov 2017</div>
-        <div class="timeline-title">Research Engineer</div>
-        <div class="timeline-company">Probabilistic Lab, GE Global Research | San Ramon, CA & Niskayuna, NY</div>
+        <div class="timeline-date">Aug 2019 – Feb 2021</div>
+        <div class="timeline-title">Research Associate</div>
+        <div class="timeline-company">Department of Physics & Astronomy, University of Tennessee, Knoxville | Knoxville, TN</div>
         <ul>
-            <li>Developed probabilistic methods and machine learning models for calibration, validation, uncertainty quantification, optimization, and meta-modeling</li>
-            <li>Created defect detection software for manufacturing processes</li>
-            <li>Contributed to GE's internal Gaussian Process Python package and Uncertainty Quantification application</li>
-            <li>Developed Bayesian Machine Learning solutions for life cycle prediction, design space optimization, and supply chain management</li>
-            <li>Built real-time defect recognition and image processing software for 3D CT composite data</li>
+            <li>Developed high efficient variational Monte Carlo codes for studying the Entanglement Entropy of the U(1) gapless spin liquid with a spinon Fermi surface. Achievements: published one paper in Physical Review Letters, which is the best physical journal with Impact Factor: 8.385 in 2019.</li>
+            <li>Implemented the Graphic Neural Network for studying the ground state of the quantum many-body systems; designed a distributed workflow on multiple accelerators to scale up the computation for the GCNs in variational Monte Carlo. Achievements: published one paper in NeurIPS 2020 workshop on Machine Learning and the Physical Sciences.</li>
         </ul>
     </div>
     
     <div class="timeline-item">
-        <div class="timeline-date">Aug 2009 – May 2014</div>
-        <div class="timeline-title">Research Assistant</div>
-        <div class="timeline-company">Georgia Institute of Technology | Atlanta, GA</div>
+        <div class="timeline-date">Sep 2015 – Aug 2019</div>
+        <div class="timeline-title">Research Associate</div>
+        <div class="timeline-company">Physics & Astronomy Department, Rice University | Houston, TX</div>
         <ul>
-            <li>Conducted research in Computer-Aided Engineering (CAE), Topological Optimization, and Image Processing</li>
-            <li>Developed periodic surface parametric models to represent topology of porous microstructures</li>
-            <li>Performed topological characterization and optimization of 3D composite porous microstructures</li>
+            <li>Developed and implemented the spin-1 SU(2) DMRG codes for studying the spin dipolar and quadrupolar phases in the two-dimensional spin-1 models. Achievements: published 10 papers, including two Physical Review Letters.</li>
+            <li>Designed an efficient Convolutional Neural Network architecture to study quantum many-body systems; developed an importance sampling gradient optimization algorithm to significantly improve the computational speed of training DNNs by variational Monte Carlo. Achievements: published one paper in Physical Review Research.</li>
+        </ul>
+    </div>
+
+    <div class="timeline-item">
+        <div class="timeline-date">Oct 2013 – Aug 2015</div>
+        <div class="timeline-title">Research Associate</div>
+        <div class="timeline-company">Department of Physics & Astronomy, CSU Northridge | Northridge, CA</div>
+        <ul>
+            <li>Developed new algorithms and variational Monte Carlo codes for studying the chiral spin liquids in the kagome and triangular models. Achievements: published two papers in Physical Review B with a total of 60+ citations. This project shows a new way to understand chiral spin liquid in Monte Carlo techniques.</li>
+            <li>Developed and implemented the spin-1/2 SU(2) DMRG codes for studying the spin liquid phase in the triangular model. Achievements: published two papers in Physical Review B with a total of 240+ citations, and this project opens a new research direction in the frustration community.</li>
         </ul>
     </div>
 </div>
