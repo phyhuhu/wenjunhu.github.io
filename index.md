@@ -106,8 +106,6 @@ title: Wenjun Hu - AI Research
                     <li><strong>Industrial Translation:</strong> industrial applications</li>
                     <li><strong>Human-AI Collaboration:</strong> Designing systems</li>
                 </ul>
-                
-                <a href="optimization.html" class="explore-button">Explore Research</a>
             </div>
         </div>
     </div>
