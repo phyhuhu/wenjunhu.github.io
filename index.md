@@ -8,7 +8,7 @@ title: Wenjun Hu - AI Research
         <div class="profile-info">
             <h1>Wenjun Hu</h1>
             <div class="profile-summary">
-                <p>Welcome to my research portfolio. I am a Senior Staff AI Scientist with 10+ years of experience in Deep Learning, Computer Vision, Bayesian Machine Learning, Generative AI, and Large Language Models. My work focuses on developing foundational AI technologies and translating cutting-edge research into real-world applications that create significant impact across industries.</p>
+                <p>Welcome to my research portfolio.</p>
                 
                 <p>For more detailed explanations of my research interests and current projects, please explore the research area tabs below.</p>
             </div>
@@ -48,7 +48,7 @@ title: Wenjun Hu - AI Research
 <div class="content-section">
     <h2>Research Interests</h2>
     
-    <p style="margin-bottom: 30px;">My research is focused on developing methods that advance the state-of-the-art and address real-world challenges in industry.</p>
+    <p style="margin-bottom: 30px;">My research is focused on </p>
     
     <div class="research-tabs">
         <div class="tabs-header">
@@ -64,16 +64,11 @@ title: Wenjun Hu - AI Research
                 
                 <h4>Current Research Focus</h4>
                 <ul style="margin-bottom: 20px;">
-                    <li>Data-efficient alignment techniques and fine-tuning for large language models</li>
-                    <li>Proxy-based uncertainty estimation for improving instruction following</li>
-                    <li>Retrieval-Augmented Generation (RAG) systems for knowledge-intensive tasks</li>
-                    <li>Text-to-SQL generation and automated coding assistance</li>
-                    <li>Graph learning approaches for RL alignment and structured reasoning</li>
-                    <li>Multimodal LLMs for text, image, and tabular data integration</li>
-                    <li><strong>Uncertainty-Aware AI:</strong> Developing methods that quantify and leverage uncertainty for more reliable AI systems</li>
-                    <li><strong>Data Efficiency:</strong> Creating learning algorithms that achieve superior performance with minimal labeled data</li>
-                    <li><strong>Industrial Translation:</strong> Bridging the gap between research innovations and practical industrial applications</li>
-                    <li><strong>Human-AI Collaboration:</strong> Designing systems that effectively combine human expertise with AI capabilities</li>
+                    <li>industrial applications</li>
+                    <li><strong>Uncertainty-Aware AI:</strong> Developing methods for more reliable AI systems</li>
+                    <li><strong>Data Efficiency:</strong> Creating</li>
+                    <li><strong>Industrial Translation:</strong> industrial applications</li>
+                    <li><strong>Human-AI Collaboration:</strong> Designing systems</li>
                 </ul>
                 
                 <a href="genai.html" class="explore-button">Explore Research</a>
@@ -83,18 +78,15 @@ title: Wenjun Hu - AI Research
         <div id="computer-vision" class="tab-content">
             <div style="margin: 40px 0;">
                 <h3>Computer Vision & Deep Learning</h3>
-                <p style="font-size: 1em; color: #666; margin-bottom: 20px;">My computer vision research centers on developing intelligent systems that can learn effectively with minimal supervision while providing reliable uncertainty estimates. I focus on active learning frameworks and self-supervised methods that dramatically reduce annotation costs while maintaining high performance, particularly for medical and industrial applications.</p>
+                <p style="font-size: 1em; color: #666; margin-bottom: 20px;">My computer vision research </p>
                 
                 <h4>Research Contributions</h4>
                 <ul style="margin-bottom: 20px;">
-                    <li>Bayesian active learning frameworks for semantic segmentation</li>
-                    <li>Self-supervised representation learning for 3D mesh analysis</li>
-                    <li>Uncertainty-aware computer vision for medical imaging</li>
-                    <li>Multi-view 3D semantic segmentation systems</li>
-                    <li><strong>Uncertainty-Aware AI:</strong> Developing methods that quantify and leverage uncertainty for more reliable AI systems</li>
-                    <li><strong>Data Efficiency:</strong> Creating learning algorithms that achieve superior performance with minimal labeled data</li>
-                    <li><strong>Industrial Translation:</strong> Bridging the gap between research innovations and practical industrial applications</li>
-                    <li><strong>Human-AI Collaboration:</strong> Designing systems that effectively combine human expertise with AI capabilities</li>
+                    <li>industrial applications</li>
+                    <li><strong>Uncertainty-Aware AI:</strong> Developing methods for more reliable AI systems</li>
+                    <li><strong>Data Efficiency:</strong> Creating</li>
+                    <li><strong>Industrial Translation:</strong> industrial applications</li>
+                    <li><strong>Human-AI Collaboration:</strong> Designing systems</li>
                 </ul>
                 
                 <a href="computer-vision.html" class="explore-button">Explore Research</a>
@@ -104,18 +96,15 @@ title: Wenjun Hu - AI Research
         <div id="optimization" class="tab-content">
             <div style="margin: 40px 0;">
                 <h3>Optimization & Machine Learning</h3>
-                <p style="font-size: 1em; color: #666; margin-bottom: 20px;">My optimization research bridges mathematical optimization theory with practical machine learning applications, focusing on Bayesian methods that provide principled uncertainty quantification. I develop frameworks that enable robust, efficient decision-making in complex engineering and business environments where understanding uncertainty is critical for safe and effective AI deployment.</p>
+                <p style="font-size: 1em; color: #666; margin-bottom: 20px;">My optimization.</p>
                 
                 <h4>Key Methodologies</h4>
                 <ul style="margin-bottom: 20px;">
-                    <li>Gaussian Process frameworks for process optimization</li>
-                    <li>Bayesian optimization for hyperparameter tuning and design</li>
-                    <li>Uncertainty quantification in complex engineering systems</li>
-                    <li>Predictive analytics for industrial applications</li>
-                    <li><strong>Uncertainty-Aware AI:</strong> Developing methods that quantify and leverage uncertainty for more reliable AI systems</li>
-                    <li><strong>Data Efficiency:</strong> Creating learning algorithms that achieve superior performance with minimal labeled data</li>
-                    <li><strong>Industrial Translation:</strong> Bridging the gap between research innovations and practical industrial applications</li>
-                    <li><strong>Human-AI Collaboration:</strong> Designing systems that effectively combine human expertise with AI capabilities</li>
+                    <li>industrial applications</li>
+                    <li><strong>Uncertainty-Aware AI:</strong> Developing methods for more reliable AI systems</li>
+                    <li><strong>Data Efficiency:</strong> Creating</li>
+                    <li><strong>Industrial Translation:</strong> industrial applications</li>
+                    <li><strong>Human-AI Collaboration:</strong> Designing systems</li>
                 </ul>
                 
                 <a href="optimization.html" class="explore-button">Explore Research</a>
@@ -129,8 +118,8 @@ title: Wenjun Hu - AI Research
     <p style="margin-bottom: 20px;">For a complete list of publications and citations, please visit my <a href="https://scholar.google.com/citations?user=rCG_IBgAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.</p>
     
     <div class="publication-item">
-        <strong>Improving instruction following in language models through proxy-based uncertainty estimation</strong><br>
-        <em>International Conference on Machine Learning (ICML), 2024</em><br>
+        <strong>PaVeRL-SQL: Text-to-SQL via Partial-Match Rewards and Verbal Reinforcement Learning</strong><br>
+        <em>arXiv:2509.07159, 2025</em><br>
         <p style="margin-top: 10px; color: #666; font-size: 0.95em;">Novel uncertainty-aware reward model that significantly improves LLM alignment with reduced human feedback requirements. Demonstrates substantial improvements on Vicuna and MT-bench evaluations.</p>
     </div>
     
@@ -138,24 +127,6 @@ title: Wenjun Hu - AI Research
         <strong>Bayesian active learning for semantic segmentation</strong><br>
         <em>arXiv:2408.01694, 2024</em><br>
         <p style="margin-top: 10px; color: #666; font-size: 0.95em;">Introduces Beta distribution approximation for efficient uncertainty estimation in semantic segmentation, achieving significant annotation cost reductions.</p>
-    </div>
-    
-    <div class="publication-item">
-        <strong>Self-Supervised contrastive representation learning for 3D mesh segmentation</strong><br>
-        <em>arXiv:2208.04278, 2022</em><br>
-        <p style="margin-top: 10px; color: #666; font-size: 0.95em;">Pioneering self-supervised approach for 3D geometric data analysis, eliminating the need for manual annotations in mesh segmentation tasks.</p>
-    </div>
-    
-    <div class="publication-item">
-        <strong>Active learning performance in labeling radiology images is 90% Effective</strong><br>
-        <em>Frontiers in Radiology, 2021</em><br>
-        <p style="margin-top: 10px; color: #666; font-size: 0.95em;">Clinical validation demonstrating dramatic reduction in radiologist annotation burden while maintaining diagnostic accuracy.</p>
-    </div>
-    
-    <div class="publication-item">
-        <strong>Modeling and optimizing process parameters in sputtering systems using Gaussian processes</strong><br>
-        <em>IEEE Transactions on Semiconductor Manufacturing, 2021</em><br>
-        <p style="margin-top: 10px; color: #666; font-size: 0.95em;">Industrial application of Bayesian optimization resulting in significant yield improvements and cost reductions in semiconductor manufacturing.</p>
     </div>
 </div>
 
