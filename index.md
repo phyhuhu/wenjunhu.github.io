@@ -16,13 +16,15 @@ title: Sima Didari - AI Research
     </div>
     
     <div class="contact-info">
-        <a href="mailto:Sima.Didari@gmail.com" class="contact-item">
+        <a href="mailto:nuaahwj@gmail.com" class="contact-item">
             <svg class="contact-icon" viewBox="0 0 24 24" fill="currentColor">
                 <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
             </svg>
             Sima.Didari@gmail.com
         </a>
-        <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID" class="contact-item" target="_blank">
+        <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID
+        
+        https://scholar.google.com/citations?user=rCG_IBgAAAAJ&hl=en" class="contact-item" target="_blank">
             <svg class="contact-icon" viewBox="0 0 24 24" fill="currentColor">
                 <path d="M5.242 13.769L0.5 9.5 12 1l11.5 8.5-4.742 4.269C17.548 14.359 14.899 14.5 12 14.5c-2.899 0-5.548-.141-6.758-.731z"/>
                 <path d="M12 14.5c-2.899 0-5.548-.141-6.758-.731L0.5 18.5 12 23l11.5-4.5-4.742-4.731C17.548 14.359 14.899 14.5 12 14.5z"/>
