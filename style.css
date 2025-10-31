@@ -1,67 +1,110 @@
 body {
   font-family: 'Inter', sans-serif;
-  background: #fff;
-  color: #333;
   margin: 0;
   padding: 0;
+  background: #fafafa;
+  color: #333;
+  line-height: 1.6;
 }
 
 .container {
-  max-width: 700px;
-  margin: 60px auto;
-  padding: 0 20px;
-  text-align: center;
+  max-width: 800px;
+  margin: 50px auto;
+  background: #fff;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
 }
 
-.profile-img {
-  width: 130px;
-  height: 130px;
-  border-radius: 50%;
-  object-fit: cover;
+/* Header section */
+.header {
+  display: flex;
+  align-items: center;
   margin-bottom: 20px;
 }
 
-h1 {
-  font-size: 2em;
-  margin-bottom: 10px;
+.profile-img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin-right: 20px;
+  object-fit: cover;
+}
+
+.name-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.name-title h1 {
+  margin: 0;
+  font-size: 2rem;
+  font-weight: 600;
 }
 
 .intro {
-  line-height: 1.6;
-  font-size: 1.05em;
+  margin-top: 10px;
+  font-size: 1rem;
 }
 
+/* Links section (inline small icons) */
 .links {
-  margin-top: 20px;
+  margin-top: 25px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 25px;
 }
 
 .links a {
-  display: inline-block;
-  margin: 0 10px;
   text-decoration: none;
   color: #333;
   font-weight: 500;
+  display: flex;
+  align-items: center;
+  transition: color 0.2s;
 }
 
 .links a:hover {
-  text-decoration: underline;
+  color: #0073e6;
+}
+
+.links .icon {
+  width: 18px;
+  height: 18px;
+  margin-right: 6px;
+  vertical-align: middle;
+  filter: grayscale(100%) brightness(0) opacity(0.8);
+  transition: filter 0.2s;
+}
+
+.links a:hover .icon {
+  filter: none;
 }
 
 hr {
-  margin: 40px 0;
+  margin: 30px 0;
   border: none;
-  border-top: 1px solid #ccc;
+  border-top: 1px solid #ddd;
 }
 
 h2 {
   margin-bottom: 10px;
 }
 
+.tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 15px;
+}
+
 .tabs span {
-  display: inline-block;
-  background: #f0f0f0;
+  background: #f2f4f8;
+  color: #333;
+  padding: 8px 14px;
   border-radius: 20px;
-  padding: 8px 16px;
-  margin: 5px;
-  font-size: 0.95em;
+  font-size: 0.9rem;
+  font-weight: 500;
 }
