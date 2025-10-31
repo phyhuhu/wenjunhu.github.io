@@ -1,0 +1,17 @@
+title: Sima Didari
+description: Senior Staff AI Scientist - Portfolio
+baseurl: ""
+url: "https://simadidari.github.io"
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+  - assets/main.scss
