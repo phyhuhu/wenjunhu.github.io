@@ -71,7 +71,7 @@ title: Wenjun Hu - AI Research
                     <li><strong>Human-AI Collaboration:</strong> Designing systems</li>
                 </ul>
                 
-                <a href="genai_.html" class="explore-button">Explore Research</a>
+                <a href="genai.html" class="explore-button">Explore Research</a>
             </div>
         </div>
         
@@ -89,7 +89,7 @@ title: Wenjun Hu - AI Research
                     <li><strong>Human-AI Collaboration:</strong> Designing systems</li>
                 </ul>
                 
-                <a href="computer-vision_.html" class="explore-button">Explore Research</a>
+                <a href="computer-vision.html" class="explore-button">Explore Research</a>
             </div>
         </div>
         
@@ -107,7 +107,7 @@ title: Wenjun Hu - AI Research
                     <li><strong>Human-AI Collaboration:</strong> Designing systems</li>
                 </ul>
 
-                <a href="optimization_.html" class="explore-button">Explore Research</a>
+                <a href="optimization.html" class="explore-button">Explore Research</a>
             </div>
         </div>
     </div>
