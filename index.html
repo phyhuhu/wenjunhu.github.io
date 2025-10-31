@@ -4,27 +4,133 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Wenjun Hu</title>
-  <link rel="stylesheet" href="style.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
   <script src="https://kit.fontawesome.com/a2e0e6b6b0.js" crossorigin="anonymous"></script>
+
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #fafafa;
+      color: #333;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 50px auto;
+      background: #fff;
+      padding: 40px;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+    }
+
+    /* Profile section */
+    .header {
+      display: flex;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    .profile-img {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      margin-right: 20px;
+      object-fit: cover;
+    }
+
+    .name-title {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    .name-title h1 {
+      margin: 0;
+      font-size: 2rem;
+      font-weight: 600;
+    }
+
+    .intro {
+      margin-top: 10px;
+      font-size: 1rem;
+    }
+
+    /* Links section */
+    .links {
+      margin-top: 25px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+
+    .links a {
+      text-decoration: none;
+      color: #333;
+      font-weight: 500;
+      transition: color 0.2s;
+    }
+
+    .links a:hover {
+      color: #0073e6;
+    }
+
+    .links i {
+      margin-right: 8px;
+      color: #0073e6;
+    }
+
+    hr {
+      margin: 30px 0;
+      border: none;
+      border-top: 1px solid #ddd;
+    }
+
+    h2 {
+      margin-bottom: 10px;
+    }
+
+    .tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 15px;
+    }
+
+    .tabs span {
+      background: #f2f4f8;
+      color: #333;
+      padding: 8px 14px;
+      border-radius: 20px;
+      font-size: 0.9rem;
+      font-weight: 500;
+    }
+  </style>
 </head>
 
 <body>
   <div class="container">
-    <img src="images/profile.jpg" alt="Profile photo" class="profile-img">
-    <h1>Wenjun Hu</h1>
-    <p class="intro">
-      Welcome to my research portfolio. I am a [Your Title/Position] with experience in
-      [Your fields, e.g., AI, Machine Learning, Computer Vision]. My work focuses on
-      [Your focus area].
-    </p>
+    <!-- Header with left-aligned name -->
+    <div class="header">
+      <img src="images/profile.jpg" alt="Profile photo" class="profile-img">
+      <div class="name-title">
+        <h1>Wenjun Hu</h1>
+        <p class="intro">
+          Welcome to my research portfolio. I am a [Your Title/Position] with experience in
+          [Your fields, e.g., AI, Machine Learning, Computer Vision]. My work focuses on
+          [Your focus area].
+        </p>
+      </div>
+    </div>
 
     <div class="links">
-      <a href="mailto:nuaahwj@gmail.com"><i class="fas fa-envelope"></i> Email</a>
-      <a href="https://scholar.google.com/citations?user=rCG_IBgAAAAJ&hl=en" target="_blank"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
-      <a href="https://www.linkedin.com/in/wenjunhuprofile/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
-      <a href="https://github.com/phyhuhu" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+      <a href="mailto:nuaahwj@gmail.com"><i class="fas fa-envelope"></i>Email</a>
+      <a href="https://scholar.google.com/citations?user=rCG_IBgAAAAJ&hl=en" target="_blank"><i class="fas fa-graduation-cap"></i>Google Scholar</a>
+      <a href="https://www.linkedin.com/in/wenjunhuprofile/" target="_blank"><i class="fab fa-linkedin"></i>LinkedIn</a>
+      <a href="https://github.com/phyhuhu" target="_blank"><i class="fab fa-github"></i>GitHub</a>
     </div>
 
     <hr>
