@@ -8,9 +8,8 @@ title: Wenjun Hu - AI Research
         <div class="profile-info">
             <h1>Wenjun Hu</h1>
             <div class="profile-summary">
-                <p>Welcome to my research portfolio.</p>
-                
-                <p>For more detailed explanations of my research interests and current projects, please explore the research area tabs below.</p>
+                <p>Welcome to my research portfolio. I am an AI Scientist with 5+ experience specializing in deep learning and computer vision, particularly in the emerging area of multimodal and generative AI that combines vision and language – including large language and vision-language models. My work bridges foundational algorithmic research and real-world application development, translating cutting-edge models into industry-scale solutions that produce meaningful impact across domains.</p>
+                <p>For an in-depth view of my research interests, publications, and current projects, please explore the research-area tabs below.</p>
             </div>
         </div>
     </div>
