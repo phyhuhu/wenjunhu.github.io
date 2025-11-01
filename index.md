@@ -175,9 +175,11 @@ title: Wenjun Hu - AI Research
     <div class="timeline-item">
         <div class="timeline-date">Oct 2013 – Feb 2021</div>
         <div class="timeline-title">Research Associate</div>
-        <div class="timeline-company">Department of Physics & Astronomy, University of Tennessee, Knoxville | Knoxville, TN</div>
-        <div class="timeline-company">Physics & Astronomy Department, Rice University | Houston, TX</div>
-        <div class="timeline-company">Department of Physics & Astronomy, CSU Northridge | Northridge, CA</div>
+        <div class="timeline-company">
+          <p>Department of Physics & Astronomy, University of Tennessee, Knoxville | Knoxville, TN</p>
+          <p>Physics & Astronomy Department, Rice University | Houston, TX</p>
+          <p>Department of Physics & Astronomy, CSU Northridge | Northridge, CA</p>
+        </div>
         <ul>
             <li>Developed high efficient variational Monte Carlo codes for studying the Entanglement Entropy of the U(1) gapless spin liquid with a spinon Fermi surface. Achievements: published one paper in Physical Review Letters, which is the best physical journal with Impact Factor: 8.385 in 2019.</li>
             <li>Implemented the Graphic Neural Network for studying the ground state of the quantum many-body systems; designed a distributed workflow on multiple accelerators to scale up the computation for the GCNs in variational Monte Carlo. Achievements: published one paper in NeurIPS 2020 workshop on Machine Learning and the Physical Sciences.</li>
