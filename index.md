@@ -4,7 +4,7 @@ title: Wenjun Hu - AI Research
 ---
 <div class="header">
     <div class="profile-section">
-        <img src="images/profile.jpg" alt="Sima Didari" class="profile-image">
+        <img src="images/profile.jpg" alt="Wenjun Hu" class="profile-image">
         <div class="profile-info">
             <h1>Wenjun Hu</h1>
             <div class="profile-summary">
