@@ -1,17 +1,17 @@
 title: Wenjun Hu
-description: Senior Staff AI Scientist - Portfolio
-baseurl: ""
-url: "https://wenjunhu.github.io"
-markdown: kramdown
-highlighter: rouge
-plugins:
-  - jekyll-feed
-exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - vendor/
-  - assets/main.scss
+description: >-
+  AI Research Scientist specializing in Large Language Models, Retrieval-Augmented Generation, Graph-based AI systems, and production-scale machine learning systems.
+
+author: Wenjun Hu
+
+keywords: >
+  Large Language Models, RAG, GraphRAG, Text-to-SQL, Agentic AI,
+  Machine Learning Systems, Deep Learning, Computational Physics
+
+theme: minima
+
+github_username: wenjunhu-usa
+
+social_links:
+  linkedin: https://www.linkedin.com/in/wenjunhu-usa
+  github: https://github.com/wenjunhu-usa
